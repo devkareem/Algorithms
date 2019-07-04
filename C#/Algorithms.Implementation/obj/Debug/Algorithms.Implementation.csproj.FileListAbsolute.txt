@@ -1,0 +1,5 @@
+D:\Learning\Algorithem\Algorithms\C#\Algorithms.Implementation\bin\Debug\Algorithms.Implementation.dll
+D:\Learning\Algorithem\Algorithms\C#\Algorithms.Implementation\bin\Debug\Algorithms.Implementation.pdb
+D:\Learning\Algorithem\Algorithms\C#\Algorithms.Implementation\obj\Debug\Algorithms.Implementation.csproj.CoreCompileInputs.cache
+D:\Learning\Algorithem\Algorithms\C#\Algorithms.Implementation\obj\Debug\Algorithms.Implementation.dll
+D:\Learning\Algorithem\Algorithms\C#\Algorithms.Implementation\obj\Debug\Algorithms.Implementation.pdb
